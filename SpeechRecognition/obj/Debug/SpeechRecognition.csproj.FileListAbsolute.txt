@@ -1,0 +1,15 @@
+E:\Graduation Project\Finaaaal\SpeechRecognition\bin\AnyCPU\Debug\SpeechBasics-WPF.exe.config
+E:\Graduation Project\Finaaaal\SpeechRecognition\obj\Debug\SpeechBasics-WPF.exe
+E:\Graduation Project\Finaaaal\SpeechRecognition\obj\Debug\SpeechBasics-WPF.pdb
+E:\Graduation Project\Finaaaal\SpeechRecognition\bin\AnyCPU\Debug\SpeechBasics-WPF.exe
+E:\Graduation Project\Finaaaal\SpeechRecognition\bin\AnyCPU\Debug\SpeechBasics-WPF.pdb
+E:\Graduation Project\Finaaaal\SpeechRecognition\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+E:\Graduation Project\Finaaaal\SpeechRecognition\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+E:\Graduation Project\Finaaaal\SpeechRecognition\obj\Debug\SpeechRecognition.csprojResolveAssemblyReference.cache
+E:\Graduation Project\Finaaaal\SpeechRecognition\obj\Debug\MainWindow.baml
+E:\Graduation Project\Finaaaal\SpeechRecognition\obj\Debug\MainWindow.g.cs
+E:\Graduation Project\Finaaaal\SpeechRecognition\obj\Debug\App.g.cs
+E:\Graduation Project\Finaaaal\SpeechRecognition\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+E:\Graduation Project\Finaaaal\SpeechRecognition\obj\Debug\SpeechBasics-WPF.g.resources
+E:\Graduation Project\Finaaaal\SpeechRecognition\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+E:\Graduation Project\Finaaaal\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.Cache

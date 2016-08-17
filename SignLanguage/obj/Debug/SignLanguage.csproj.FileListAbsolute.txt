@@ -1,0 +1,14 @@
+E:\Graduation Project\Finaaaal\SignLanguage\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+E:\Graduation Project\Finaaaal\SignLanguage\obj\Debug\BodyBasics-WPF.exe
+E:\Graduation Project\Finaaaal\SignLanguage\obj\Debug\BodyBasics-WPF.pdb
+E:\Graduation Project\Finaaaal\SignLanguage\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+E:\Graduation Project\Finaaaal\SignLanguage\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+E:\Graduation Project\Finaaaal\SignLanguage\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+E:\Graduation Project\Finaaaal\SignLanguage\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+E:\Graduation Project\Finaaaal\SignLanguage\obj\Debug\MainWindow.baml
+E:\Graduation Project\Finaaaal\SignLanguage\obj\Debug\MainWindow.g.cs
+E:\Graduation Project\Finaaaal\SignLanguage\obj\Debug\App.g.cs
+E:\Graduation Project\Finaaaal\SignLanguage\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+E:\Graduation Project\Finaaaal\SignLanguage\obj\Debug\BodyBasics-WPF.g.resources
+E:\Graduation Project\Finaaaal\SignLanguage\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+E:\Graduation Project\Finaaaal\SignLanguage\obj\Debug\SignLanguage.csproj.GenerateResource.Cache

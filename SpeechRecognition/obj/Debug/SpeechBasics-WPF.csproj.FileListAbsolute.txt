@@ -1,0 +1,33 @@
+C:\Users\amr arafa\Documents\Visual Studio 2013\Projects\SpeechBasics-WPF\bin\AnyCPU\Debug\SpeechBasics-WPF.exe.config
+C:\Users\amr arafa\Documents\Visual Studio 2013\Projects\SpeechBasics-WPF\bin\AnyCPU\Debug\SpeechBasics-WPF.exe
+C:\Users\amr arafa\Documents\Visual Studio 2013\Projects\SpeechBasics-WPF\bin\AnyCPU\Debug\SpeechBasics-WPF.pdb
+C:\Users\amr arafa\Documents\Visual Studio 2013\Projects\SpeechBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\amr arafa\Documents\Visual Studio 2013\Projects\SpeechBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\amr arafa\Documents\Visual Studio 2013\Projects\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\amr arafa\Documents\Visual Studio 2013\Projects\SpeechBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\amr arafa\Documents\Visual Studio 2013\Projects\SpeechBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\amr arafa\Documents\Visual Studio 2013\Projects\SpeechBasics-WPF\obj\Debug\App.g.cs
+C:\Users\amr arafa\Documents\Visual Studio 2013\Projects\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+C:\Users\amr arafa\Documents\Visual Studio 2013\Projects\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.g.resources
+C:\Users\amr arafa\Documents\Visual Studio 2013\Projects\SpeechBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\amr arafa\Documents\Visual Studio 2013\Projects\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\amr arafa\Documents\Visual Studio 2013\Projects\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\amr arafa\Documents\Visual Studio 2013\Projects\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.pdb
+E:\Graduation Project\SpeechBasics-WPF\bin\AnyCPU\Debug\SpeechBasics-WPF.exe.config
+E:\Graduation Project\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.exe
+E:\Graduation Project\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.pdb
+E:\Graduation Project\SpeechBasics-WPF\bin\AnyCPU\Debug\SpeechBasics-WPF.exe
+E:\Graduation Project\SpeechBasics-WPF\bin\AnyCPU\Debug\SpeechBasics-WPF.pdb
+E:\Graduation Project\SpeechBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+E:\Graduation Project\SpeechBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+E:\Graduation Project\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+E:\Graduation Project\SpeechBasics-WPF\obj\Debug\MainWindow.baml
+E:\Graduation Project\SpeechBasics-WPF\obj\Debug\MainWindow.g.cs
+E:\Graduation Project\SpeechBasics-WPF\obj\Debug\App.g.cs
+E:\Graduation Project\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+E:\Graduation Project\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.g.resources
+E:\Graduation Project\SpeechBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+E:\Graduation Project\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+E:\Graduation Project\Finaaaal\SpeechBasics-WPF\bin\AnyCPU\Debug\SpeechBasics-WPF.exe.config
+E:\Graduation Project\Finaaaal\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.exe
+E:\Graduation Project\Finaaaal\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.pdb
